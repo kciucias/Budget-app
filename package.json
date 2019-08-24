@@ -1,7 +1,7 @@
 {
-  "name": "budgety",
+  "name": "Budget-app",
   "version": "1.0.0",
-  "description": "budgety ES6 project",
+  "description": "Budget-app converted into ES6",
   "main": "app.js",
   "scripts": {
     "dev": "webpack --mode development",
