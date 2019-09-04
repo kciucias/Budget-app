@@ -1,4 +1,5 @@
-	export const strings = {
+
+    export const strings = {
         inputType: '.add__type',
         inputDescription: '.add__description',
         inputValue: '.add__value',
@@ -13,3 +14,4 @@
         expensesPercLabel: '.item__percentage',
         dateLabel: '.budget__title--month'
     };
+
